@@ -95,7 +95,6 @@ Follow these steps to build the project, run the GUI, explore routing, jam/unjam
 
 1) Build the project
 ```bash
-cd /home/ubuntu/project/routing-twin
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 ```
