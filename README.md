@@ -122,8 +122,6 @@ You should see 3 nodes and 3 links in a triangle. Links are green (UP).
 - Observe: recompute runs; routing tables reflect the changed cost.
 
 7) Use keyboard shortcuts
-- Press `R` to recompute; check Event Log for duration.
-- Press `E` to export to `build/routes_gui.json` (default GUI path).
 - With a link selected, press `J` to Jam/Unjam it.
 
 8) Manage topology (add/delete)
