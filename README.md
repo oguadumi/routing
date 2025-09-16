@@ -1,3 +1,6 @@
+<img width="1268" height="756" alt="image" src="https://github.com/user-attachments/assets/63747eab-b765-4fc5-8cfa-946487a7933a" />
+
+
 ## OLSR-lite: Link-State Routing Twin
 
 OLSR-lite is a C++20 desktop simulator that models neighbor discovery and shortest-path routing with weighted, undirected links. It includes a real-time ImGui overlay to visualize the topology, inspect nodes/links, interactively Jam/Unjam links, edit weights, and export routing tables as JSON. A hysteresis module (optional) can stabilize link status and route choices under jitter.
@@ -233,5 +236,3 @@ olsr-lite/
 
 ---
 
-## License
-MIT (or project default).
