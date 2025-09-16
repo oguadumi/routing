@@ -21,7 +21,6 @@ Prereqs:
 
 Linux/macOS:
 ```bash
-cd /home/ubuntu/project/routing-twin
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 ```
