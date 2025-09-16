@@ -66,8 +66,6 @@ Command-line flags:
 - Click near a link (line) to select it.
 
 ### Keyboard
-- `R`: Recompute routes.
-- `E`: Export routes to `build/routes_gui.json`.
 - `J`: Jam/Unjam the currently selected link.
 
 ### Menus and panels
